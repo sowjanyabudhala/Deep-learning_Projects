@@ -9,8 +9,6 @@ Welcome to my curated collection of Deep Learning Projects, each designed to sol
 
 📦 Installation & Setup
 
-🧪 Model Outputs & Demos
-
 🛠️ Tech Stack
 
 📌 Final Thoughts
@@ -99,7 +97,7 @@ Realistic digit images from noise vectors
 ## 📦 Installation & Setup
 
 # Clone the rep
-git clone https://github.com/sowjanya budhala/deeplearning-projects
+git clone https://github.com/sowjanyabudhala/Deep-learning_Projects
 
 # Navigate to a project
 cd Face_Mask_Detection
