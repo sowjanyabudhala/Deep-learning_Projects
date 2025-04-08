@@ -99,7 +99,7 @@ Realistic digit images from noise vectors
 ## 📦 Installation & Setup
 
 # Clone the rep
-git clone https://github.com/yourusername/deeplearning-projects
+git clone https://github.com/sowjanya budhala/deeplearning-projects
 
 # Navigate to a project
 cd Face_Mask_Detection
@@ -123,11 +123,11 @@ CV: CNN, Transfer Learning (ResNet50), GANs
 ## 📌 Final Thoughts
 These projects demonstrate:
 
-# A strong understanding of deep learning architectures
+ A strong understanding of deep learning architectures
 
-# Ability to create production-ready models
+ Ability to create production-ready models
 
-# Skill in model deployment & UI development for interaction
+ Skill in model deployment & UI development for interaction
 
 
 
